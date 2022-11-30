@@ -1,0 +1,10 @@
+.main{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+
+.customeBtn{
+    width: 24%;
+    border-radius: 10px;
+}
